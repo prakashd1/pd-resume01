@@ -1,0 +1,169 @@
+{
+  "main": {
+    "name":"Prakash Dayaramani",
+    "occupation":"Full Stack Technical Architect",
+    "description":"I love to work on various Software Applications.",
+    "image":"profilepic.jpg",
+    "bio":"I have worked on various roles like Full Stack Architect/ Full Stack Developer/ Backend Developer and so on. I am expert in designing and working on Java/Node based systems. I have worked on domains like Payments, Banking, Insurance, Manufacturing, Supply Chain etc. I enjoy reading and playing chess in my free time",
+    "contactmessage":"I am happy to hear from you regarding any opportunities or feedback you have. Please fill form below to get in touch with me",
+    "email": "prakash.dayaramani@gmail.com",
+    "phone": "+91-8552938511",
+    "address":{
+      "street":"",
+      "city":"Pune, India",
+      "state":"MH",
+      "zip": "411 001"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/prakashd1",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/prakashd1",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/prakashtheone",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/prakashd1",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Pune University",
+        "degree":"Computer Engineering",
+        "graduated":"2006",
+        "description":""
+      }
+    ],
+    "certifications": [
+      {
+        "school": "AWS Certified Solutions Architect- Associate",
+        "degree": "Amazon",
+        "graduated": "Nov 2019",
+        "description": ""
+      }
+    ],
+    "work":[
+      {
+        "company":"John Deere Technology Centre",
+        "title":"Full Stack Architect",
+        "years":"June 2018 - Present",
+        "description":""
+      },
+      {
+        "company":"Infosys Technologies",
+        "title":"UI Architect, Performance Architect, Java Architect",
+        "years":"Feb 2015 - June 2018",
+        "description":""
+      },
+      {
+        "company": "IBM India Software Labs",
+        "title": "Solutions Developer, Integration Developer",
+        "years": "Feb 2013 - Feb 2015",
+        "description": ""
+      },
+      {
+        "company": "Amdocs Development Centre India",
+        "title": "Senior Subject Matter Expert",
+        "years": "Nov 2009 - Jan 2013",
+        "description": ""
+      },
+      {
+        "company": "Mastek Ltd.",
+        "title": "Software Developer",
+        "years": "Oct 2006 - Oct 2009",
+        "description": ""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"95%"
+      },
+      {
+        "name":"SQL",
+        "level":"95%"
+      },
+      {
+        "name":"Architecture Design",
+        "level":"95%"
+      },
+      {
+        "name":"React",
+        "level":"80%"
+      },
+      {
+        "name":"Mentoring",
+        "level":"95%"
+      },
+      {
+        "name":"Performance Architecture",
+        "level":"90%"
+      },
+      {
+        "name":"Git",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
